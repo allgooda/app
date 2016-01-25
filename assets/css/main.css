@@ -1,0 +1,70 @@
+#bodyone {
+  background: url(http://pre07.deviantart.net/c293/th/pre/f/2009/350/b/e/red_textured_paper_by_thaily_stock.jpg) no-repeat center center fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+#profile{
+  box-shadow: 2px 2px 3px black;
+  border: 1px solid rgba(128,128,128, .7);
+}
+
+#accord {
+  width: 1300px;
+}
+
+#desc {
+  font-weight: bold;
+  font-family: 'Economica';
+  font-size: 35px;
+  display: block;
+  line-height: 40px;
+}
+
+#cardlist {
+  margin-left: 35px;
+}
+
+#title{
+  font-size: 35px;
+  font-family: 'Economica';
+  text-align: center;
+  background: rgb(17, 12, 90);
+  box-shadow: 2px 2px 3px black;
+}
+#mail {
+  color: black;
+}
+#about {
+  font-weight: bold;
+  font-size: 50px;
+  font-family: 'Economica';
+}
+
+#pic1 {
+  height: 230px;
+}
+
+#pic2 {
+  height: 230px;
+}
+
+#pic3 {
+  height: 230px;
+}
+
+#pic4 {
+  height: 230px;
+}
+
+.icon.big{
+  margin: 40px;
+}
+
+.ui.styled.fluid.accordion {
+  margin-bottom: 25px;
+}
+
+
