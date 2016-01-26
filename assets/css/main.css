@@ -1,5 +1,11 @@
 #bodyone {
-  background: url(https://i.imgur.com/YkdTVHt.png) no-repeat center center fixed;
+  background:
+  linear-gradient(
+      rgba(0, 0, 0, 0.3),
+      rgba(0, 0, 0, 0.3)
+    ),
+  url(https://i.imgur.com/fO7MS2e.jpg) no-repeat center center fixed;
+  background-color: rgba(0,0,0,1);
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -31,7 +37,7 @@
   font-size: 35px;
   font-family: 'Economica';
   text-align: center;
-  background: rgb(17, 12, 90);
+  background: rgb(10, 5, 50);
   box-shadow: 2px 2px 3px black;
 }
 #mail {
